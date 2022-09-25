@@ -2,6 +2,7 @@
 Assignments for the Complex Data Analysis course at Wrocław University of Science and Technology.
 
 1. Collective classification 
+
 Iterative Classification Algorithm - implementation and experiments.
 
 2. Hierarchical classification
